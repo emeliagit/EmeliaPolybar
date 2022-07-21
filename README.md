@@ -1,0 +1,2 @@
+# EmeliaPolybar
+My Polybar configuration
